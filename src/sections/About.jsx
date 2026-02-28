@@ -61,9 +61,7 @@ export const About = () => {
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium algerian text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+                As a MERN stack learner, my goal is to build digital experiences that are functional, user-friendly, and easy to maintain while continuously improving my skills.
               </p>
             </div>
           </div>
